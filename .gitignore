@@ -1,4 +1,4 @@
-Model_Training/DataSet/*.png
+Model_Training/DataSet/*.pgn
 Model_Training/DataSet/lichess_elite_2013-09.pgn
 Model_Training/DataSet/lichess_elite_2013-11.pgn
 Model_Training/DataSet/lichess_elite_2014-01.pgn
